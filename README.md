@@ -1,5 +1,5 @@
 # Prompt-Learning
-collect recent papers on prompt learning
+Collect recent papers on prompt learning
 
 ## Towards vision prompt
 |  Title   | year  | Venue | code |
