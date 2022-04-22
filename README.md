@@ -1,6 +1,9 @@
 # Prompt-Learning
 Collect recent papers on prompt learning
 
+core thinking
++ When and why CLIP-prior works well?
+
 ## Towards vision prompt
 |  Title   | Year  | Venue | Code |
 |  ----  | ----  | ---- | ---- |
