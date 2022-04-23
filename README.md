@@ -15,3 +15,10 @@ core thinking
 | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) | 2021 | Arxiv | [Link](https://github.com/OpenAI/CLIP)|
 | [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) | 2017 | Arxiv | [Link](https://github.com/zalandoresearch/pytorch-vq-vae)|
 
+
+## Towards application
+|  Title   | Year  | Venue | Code |
+|  ----  | ----  | ---- | ---- |
+| [Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/pdf/2203.14940.pdf) | 2022 | CVPR | [Link](https://github.com/dyabel/detpro)|
+
+
