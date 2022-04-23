@@ -1,5 +1,5 @@
-# Prompt-Learning
-Collect recent papers on prompt learning
+# CLIP
+Collect recent papers on CLIP and prompt learning
 
 core thinking
 + When and why CLIP-prior works well?
