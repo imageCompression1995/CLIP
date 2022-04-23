@@ -4,7 +4,7 @@ Collect recent papers on prompt learning
 core thinking
 + When and why CLIP-prior works well?
 
-## Towards vision prompt
+## Towards vision-language prompt
 |  Title   | Year  | Venue | Code |
 |  ----  | ----  | ---- | ---- |
 | [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/pdf/2110.04544.pdf) | 2022 | Arxiv | [Link](https://github.com/gaopengcuhk/CLIP-Adapter)|
