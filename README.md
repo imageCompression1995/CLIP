@@ -25,5 +25,6 @@ core thinking
 |  ----  | ----  | ---- | ---- |
 | [Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/pdf/2203.14940.pdf) | 2022 | CVPR | [Link](https://github.com/dyabel/detpro)|
 | [Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos](https://arxiv.org/pdf/2203.14104.pdf) | 2022 | CVPR | [Link](https://github.com/ttlmh/Bridge-Prompt)|
+| [HairCLIP: Design Your Hair by Text and Reference Image](https://arxiv.org/abs/2112.05142) | 2022 | CVPR | [Link](https://github.com/wty-ustc/HairCLIP)|
 
 
