@@ -2,10 +2,11 @@
 Collect recent papers on CLIP and prompt learning
 
 core thinking
-+ When and why CLIP-prior works well?
-  + CLIP builds connection between vision and language
-  + When CLIP is applied to downstream tasks, we typically use prompt-based methods. So, how to learn prompt matters.
-
++ Why CLIP-prior works well?
+  + CLIP learns relationships between vision and language from 400 million text-image pairs.
++ How to transfer?
+  + Zero-shot transfer
+  + Prompt learning
 ## Seminal Work 
 |  Title   | Year  | Venue | Code |
 |  ----  | ----  | ---- | ---- |
