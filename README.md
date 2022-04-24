@@ -47,6 +47,7 @@ core thinking
 ### Visual Grounding 
 |  Title   | Year  | Venue | Code |
 |  ----  | ----  | ---- | ---- |
+| [ClipCap: CLIP Prefix for Image Captioning](https://arxiv.org/pdf/2111.09734.pdf) | 2021 | Arxiv | [Link](https://github.com/rmokady/CLIP_prefix_caption)|
 | [CPT: Colorful prompt tuning for pre-trained vision-language models](https://openreview.net/pdf?id=TCl7CbQ29hH) | 2021 | Arxiv | None|
 | [ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension](https://arxiv.org/pdf/2204.08583.pdf) | 2022 |ACL | None|
 
