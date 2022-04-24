@@ -20,7 +20,7 @@ core thinking
 | [Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling](https://arxiv.org/abs/2111.03930) | 2022 | Arxiv | [Link](https://github.com/gaopengcuhk/Tip-Adapter)|
 | [Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/pdf/2204.03649.pdf) | 2022 | Arxiv | [Link](https://github.com/tonyhuang2022/UPL)|
 
-## Application
+## Applications
 
 ### Detection
 |  Title   | Year  | Venue | Code |
