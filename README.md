@@ -14,7 +14,7 @@ core thinking
 
 ## Applications
 ### Image Classification
-|  Title   | Year  | Venue | Code |
+|  Title   | Year  | Venue | Code | Notes|
 |  ----  | ----  | ---- | ---- |
 | [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134) | 2021 | Arxiv | [Link](https://github.com/KaiyangZhou/CoOp)|
 | [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) | 2022 | CVPR | [Link](https://github.com/KaiyangZhou/CoOp)|
@@ -23,9 +23,9 @@ core thinking
 | [Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/pdf/2204.03649.pdf) | 2022 | Arxiv | [Link](https://github.com/tonyhuang2022/UPL)|
 
 ### Detection
-|  Title   | Year  | Venue | Code |
+|  Title   | Year  | Venue | Code | Notes|
 |  ----  | ----  | ---- | ---- |
-| [Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/pdf/2203.14940.pdf) | 2022 | CVPR | [Link](https://github.com/dyabel/detpro)|
+| [Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/pdf/2203.14940.pdf) | 2022 | CVPR | [Link](https://github.com/dyabel/detpro)|[Notes](https://1drv.ms/u/s!Ahp5ute9Q6jYgTlSy946WgNsk26I)|
 
 ### Image/Video translation/editing
 |  Title   | Year  | Venue | Code |
