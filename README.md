@@ -11,6 +11,10 @@ core thinking
 |  ----  | ----  | ---- | ---- |
 | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) | 2021 | ICML | [Link](https://github.com/OpenAI/CLIP)|
 
+## Improved Work 
+|  Title   | Year  | Venue | Code |
+|  ----  | ----  | ---- | ---- |
+| [Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm](https://arxiv.org/abs/2110.05208) | 2022 | ICLR | [Link](https://github.com/Sense-GVT/DeCLIP)|
 
 ## Applications
 ### Image Classification
