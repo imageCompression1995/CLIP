@@ -8,9 +8,9 @@ core thinking
   + Zero-shot transfer
   + Prompt learning
 ## Seminal Work 
-|  Title   | Year  | Venue | Code |
-|  ----  | ----  | ---- | ---- |
-| [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) | 2021 | ICML | [Link](https://github.com/OpenAI/CLIP)|
+|  Title   | Year  | Venue | Code |Notes|
+|  ----  | ----  | ---- | ---- |---- |
+| [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) | 2021 | ICML | [Link](https://github.com/OpenAI/CLIP)|[Link](https://1drv.ms/u/s!Ahp5ute9Q6jYgTlSy946WgNsk26I)|
 
 ## Improved Work 
 |  Title   | Year  | Venue | Code |
