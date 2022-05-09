@@ -7,6 +7,7 @@ core thinking
 + How to transfer?
   + Zero-shot transfer
   + Prompt learning
+  
 ## Seminal Work 
 |  Title   | Year  | Venue | Code |Notes|
 |  ----  | ----  | ---- | ---- |---- |
@@ -19,11 +20,13 @@ core thinking
 | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) | 2022 | Arxiv | [Link](https://github.com/salesforce/BLIP)|
 | [SLIP: Self-supervision meets Language-Image Pre-training](https://arxiv.org/abs/2112.12750) | 2022 | Arxiv | [Link](https://github.com/facebookresearch/SLIP)|
 
+
 ## Applications
 ### Image Classification
 |  Title   | Year  | Venue | Code | 
 |  ----  | ----  | ---- | ---- |
 | [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134) | 2021 | Arxiv | [Link](https://github.com/KaiyangZhou/CoOp)|
+| [Prompt Distribution Learning](https://arxiv.org/pdf/2205.03340.pdf) | 2022 | CVPR | None|
 | [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) | 2022 | CVPR | [Link](https://github.com/KaiyangZhou/CoOp)|
 | [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/pdf/2110.04544.pdf) | 2022 | Arxiv | [Link](https://github.com/gaopengcuhk/CLIP-Adapter)|
 | [Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling](https://arxiv.org/abs/2111.03930) | 2022 | Arxiv | [Link](https://github.com/gaopengcuhk/Tip-Adapter)|
