@@ -36,7 +36,7 @@ core thinking
 |  Title   | Year  | Venue | Code | Notes|
 |  ----  | ----  | ---- | ---- | ---- |
 | [Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/pdf/2203.14940.pdf)| 2022 | CVPR | [Link](https://github.com/dyabel/detpro)|[Link](https://1drv.ms/u/s!Ahp5ute9Q6jYgTlSy946WgNsk26I)|
-
+| [DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting](https://openaccess.thecvf.com/content/CVPR2022/papers/Rao_DenseCLIP_Language-Guided_Dense_Prediction_With_Context-Aware_Prompting_CVPR_2022_paper.pdf)| 2022 | CVPR | [Link](https://github.com/raoyongming/DenseCLIP)|[Link](https://1drv.ms/u/s!Ahp5ute9Q6jYgTlSy946WgNsk26I)|
 
 ### Image/Video translation/editing
 |  Title   | Year  | Venue | Code |
